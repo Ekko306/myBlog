@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "da9a02ada7aab793",
+    "type": "split",
+    "children": [
+      {
+        "id": "251004ec42386f98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/git常用命令.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "800b8bfd5cc5a7fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a34e9d5faade6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82d336bdfb6f119",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e62570a8bc443266",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "邮箱",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbec528623fc990b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4479a5bae7f6290e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3a3f3b35b4e5b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/git常用命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "251004ec42386f98",
+  "lastOpenFiles": [
+    "_posts/git常用命令.md",
+    "_posts/git卷1.md",
+    "_posts/temp.md",
+    "_drafts/temp.md",
+    "_posts/服务器部署Hexo.md",
+    "_posts/配置Hexo与主题.md",
+    "_drafts/build-my-own-React.md",
+    "_drafts/Axios-by-Typescript-卷1.md",
+    "_drafts/Docker.md",
+    "_drafts/git常用命令.md"
+  ]
+}
