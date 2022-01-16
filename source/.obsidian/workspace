@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/后续任务.md",
+            "file": "_drafts/园游会.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dbec528623fc990b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/后续任务.md",
+                "file": "_drafts/园游会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/后续任务.md"
+                "file": "_drafts/园游会.md"
               }
             }
           }
@@ -109,6 +108,8 @@
   },
   "active": "d7c04fbdb80ac534",
   "lastOpenFiles": [
+    "_drafts/园游会.md",
+    "_drafts/深入浅出中文编码.md",
     "_drafts/后续任务.md",
     "_drafts/插件推荐.md",
     "_drafts/Axure学习1.md",
@@ -116,8 +117,6 @@
     "_drafts/Linux-Commands.md",
     "_drafts/Swagger-UI.md",
     "_drafts/Redux简易指南.md",
-    "_posts/毕业设计1.md",
-    "_posts/毕业设计5.md",
-    "_drafts/Axios-by-Typescript卷1.md"
+    "_posts/毕业设计1.md"
   ]
 }
