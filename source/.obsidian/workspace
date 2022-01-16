@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "da9a02ada7aab793",
+    "id": "e1e7d0486b03fde5",
     "type": "split",
     "children": [
       {
-        "id": "251004ec42386f98",
+        "id": "d7c04fbdb80ac534",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/git常用命令.md",
-            "mode": "source"
+            "file": "_drafts/后续任务.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "邮箱",
+                "query": "跨域",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dbec528623fc990b",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/git常用命令.md",
+                "file": "_drafts/后续任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +80,44 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6de7a4aacae96a2f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b0ebb759644fb54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/后续任务.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 251,
     "collapsed": true
   },
-  "active": "251004ec42386f98",
+  "active": "d7c04fbdb80ac534",
   "lastOpenFiles": [
-    "_posts/git常用命令.md",
-    "_posts/git卷1.md",
-    "_posts/temp.md",
-    "_drafts/temp.md",
-    "_posts/服务器部署Hexo.md",
-    "_posts/配置Hexo与主题.md",
-    "_drafts/build-my-own-React.md",
-    "_drafts/Axios-by-Typescript-卷1.md",
-    "_drafts/Docker.md",
-    "_drafts/git常用命令.md"
+    "_drafts/后续任务.md",
+    "_drafts/插件推荐.md",
+    "_drafts/Axure学习1.md",
+    "_drafts/github合作实践.md",
+    "_drafts/Linux-Commands.md",
+    "_drafts/Swagger-UI.md",
+    "_drafts/Redux简易指南.md",
+    "_posts/毕业设计1.md",
+    "_posts/毕业设计5.md",
+    "_drafts/Axios-by-Typescript卷1.md"
   ]
 }

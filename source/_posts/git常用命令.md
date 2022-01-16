@@ -15,7 +15,7 @@ gallery:
 git常用命令记下来作为cheatbook常看
 <!-- more -->
 <!-- toc -->
-# 第3章
+# 第3章 起步
 ## 基本
 ```bash
 git                                       # 查看所有命令
@@ -87,3 +87,24 @@ git mv foo.html bar.html
 ```
 
 ## 创建版本库副本
+```bash
+git clone public_html my_website         # 复制到my_website
+
+ls -lsa public_html my_website           # 查看两者区别
+diff -r public_html mywebsite
+```
+
+## 散列值底层
+```bash
+# 把散列值从对象库中提取出来查看
+git cat-file -p 3b18e512dba79e4c8300dd08aeb37f8e728b8dad
+git rev-parse 3b18e512d                  # 通过唯一前缀查找散列值
+git ls-files -s                          # 查看文件关联
+git write-tree                           # 从当前索引创建一个树对象
+find .git/objects                        # 查看.git隐藏散列值对象
+# 提要git write-tree根据索引生成的树对象
+echo -n "Commit a file that says hello\n" | git commit-tree 492413269
+
+git commit = git write-tree + git commit-tree
+```
+
